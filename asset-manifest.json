@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OssTeam14/KwFastWiFi/static/css/main.d8bede96.css",
+    "main.js": "/OssTeam14/KwFastWiFi/static/js/main.4d34251a.js",
+    "static/js/496.9fe77410.chunk.js": "/OssTeam14/KwFastWiFi/static/js/496.9fe77410.chunk.js",
+    "index.html": "/OssTeam14/KwFastWiFi/index.html",
+    "main.d8bede96.css.map": "/OssTeam14/KwFastWiFi/static/css/main.d8bede96.css.map",
+    "main.4d34251a.js.map": "/OssTeam14/KwFastWiFi/static/js/main.4d34251a.js.map",
+    "496.9fe77410.chunk.js.map": "/OssTeam14/KwFastWiFi/static/js/496.9fe77410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bede96.css",
+    "static/js/main.4d34251a.js"
+  ]
+}
